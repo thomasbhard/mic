@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14046663933",
+    "firebase_url": "https://mic-training.firebaseio.com",
+    "project_id": "mic-training",
+    "storage_bucket": "mic-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14046663933:android:f25301e71b4e440ee79a94",
+        "android_client_info": {
+          "package_name": "com.example.mic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14046663933-n6ahofod58rmueiafijkmqji311k5bdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mic",
+            "certificate_hash": "09c8f7644785119ea487707a433b67304b044ad1"
+          }
+        },
+        {
+          "client_id": "14046663933-bfu993n7o9v14ir7c5agfebogkhmuh3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB42ID5KIkwqXi7kydiVC9Jh5dNGFurKQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14046663933-bfu993n7o9v14ir7c5agfebogkhmuh3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
